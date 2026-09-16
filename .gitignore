@@ -1,0 +1,10 @@
+.venv/
+data/RAVDESS/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
